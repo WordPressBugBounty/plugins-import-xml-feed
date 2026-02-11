@@ -4,7 +4,7 @@ Donate link: https://www.mooveagency.com/wordpress-plugins/import-xml-feed/
 Tags: xml, rss, import, feed, JSON
 Stable tag: 2.1.6
 Requires at least: 4.3
-Tested up to: 6.3
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GPLv3
 
